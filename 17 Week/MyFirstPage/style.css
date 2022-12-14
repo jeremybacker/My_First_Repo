@@ -1,0 +1,30 @@
+body {
+    font-family: system-ui;
+    background-color: #192939;
+    color: #fa7f08;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: kenia;
+    padding: 45px;
+    font-weight: 1000;
+    font-kerning: auto;
+    color: #042940;
+    font-size: 70px;
+    background-color: #348888;
+  }
+  
+  h2 {
+    font-family: 'gotham';
+    font-size: 30px;
+    color: #9ef8ee;
+    margin-bottom: 35px;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+  }
+  
+  a {
+    font-size: 25px;
+    color: #fa7f08;
+  } 

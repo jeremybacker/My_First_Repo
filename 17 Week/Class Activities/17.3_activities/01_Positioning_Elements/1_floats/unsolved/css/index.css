@@ -1,0 +1,27 @@
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35pt;
+}
+/* Write your selector for .left below */
+
+.left {
+    float: left;
+    padding-right: 15px;
+}
+
+/* Write your selector for .right below */
+
+.right {
+    float: right;
+    padding-left: 15px;
+}
+/* Write your selector for .separator below */
+
+.separator {
+    width: 1200px;
+    
+}
+
+body {
+    background-color:  #3174b7;;
+}
